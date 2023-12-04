@@ -1,7 +1,0 @@
-ALERT!
-
-Hi CONTACT_NAME,
-
-DRIVER_NAME has listed your name as the emergency contact in our Fatigue Detection System.
-This is to alert you DRIVER_NAME is frequently falling asleep while driving.
-Please contact him as possible!
